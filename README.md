@@ -1,5 +1,8 @@
 # nostradamus_brucebuffer
 
+<a href="https://zenodo.org/doi/10.5281/zenodo.10750000"><img src="https://zenodo.org/badge/766049400.svg" alt="DOI"></a>
+
+
 MMA Fight Outcome Prediction Script
 Overview
 This script is designed for predicting outcomes of MMA fights using a combination of machine learning and Bayesian statistical models. It includes data preparation, model training, prediction, and visualization steps. The core functionalities include handling imbalanced datasets, training Random Forest models, and performing Bayesian analysis to estimate fight outcomes.
